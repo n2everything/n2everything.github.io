@@ -14,6 +14,5 @@ In the end, the LoRa hat that was selected and used in the build didn't work out
 
 {% include youtube.html youtube_id="d1ZWiHuUwLc" %}
 
-## Equipment used:
-[Raspberry Pi 3b](https://www.amazon.com/dp/B01LPLPBS8) (There are newer models available, the [Pi4](https://www.amazon.com/dp/B09TTNF8BT), and [Pi5](https://www.amazon.com/dp/B0CK3L9WD3))<br>
-[Waveshare PoE hat](https://www.amazon.com/dp/B0928ZD7QQ)<br>
+[Raspberry Pi 3b](https://amzn.to/3FtPYVr) (There are newer models available, the [Pi4](https://amzn.to/3Fv3c46), and [Pi5](https://www.amazon.com/dp/B0CK3L9WD3))<br>
+[Waveshare PoE hat](https://amzn.to/41QJirE)<br>
