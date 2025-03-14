@@ -12,7 +12,9 @@ In the end, the LoRa hat that was selected and used in the build didn't work out
 
   I'll upload another (short) video later when I find one that works well.
 
-{% include youtube.html youtube_id="d1ZWiHuUwLc" %}
+{% include embed/youtube.html id='d1ZWiHuUwLc' %}
 
+## Links
 [Raspberry Pi 3b](https://amzn.to/3FtPYVr) (There are newer models available, the [Pi4](https://amzn.to/3Fv3c46), and [Pi5](https://www.amazon.com/dp/B0CK3L9WD3))<br>
 [Waveshare PoE hat](https://amzn.to/41QJirE)<br>
+
