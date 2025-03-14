@@ -8,9 +8,9 @@ tags: [search and rescue, sar, prsar, peace river search and rescue]
 
 Just some K9 training with the local [Peace River Search and Rescue](https://www.prsar.org) team.
 
-Teams flown in on helicopter, Navigate to search area, searched their grid, and locate targets.
+Teams are flown in via helicopter, navigate to search area, search their grid and locate targets, then navigate back to landing zone to be picked up by helicopter.
 
 Some members from the local [Peace River Jeepers and 4x4](https://www.facebook.com/groups/1087930271275221_) club were invited to assist in transport and first aid.
 
-{% include youtube.html youtube_id="1p4waT0JbOI" %}
-{% include youtube.html youtube_id="X09A9awA5FY" %}
+{% include embed/youtube.html id="1p4waT0JbOI" %}
+{% include embed/youtube.html id="X09A9awA5FY" %}
