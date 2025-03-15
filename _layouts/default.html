@@ -1,7 +1,6 @@
 ---
 layout: compress
 ---
-
 <!doctype html>
 
 {% include origin-type.html %}
@@ -18,9 +17,15 @@ layout: compress
 
   <body>
     <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=i{{ site.analytics.google.id }"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
+    <noscript
+      ><iframe
+        src="https://www.googletagmanager.com/ns.html?id=i{{ site.analytics.google.id }}"
+        height="0"
+        width="0"
+        style="display:none;visibility:hidden"
+      ></iframe
+    ></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     {% include sidebar.html lang=lang %}
 
     <div id="main-wrapper" class="d-flex justify-content-center">
